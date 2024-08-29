@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-<img aling="right" alt="Coding" width="400" scr="https://github.com/Tech-Jafar/Tech-Jafar/blob/main/cod%20gif.gif">
+<p><img aling="right" alt="Coding" width="400" scr="https://github.com/Tech-Jafar/Tech-Jafar/blob/main/cod.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-jafar&label=Profile%20views&color=0e75b6&style=flat" alt="tech-jafar" /> </p>
 
