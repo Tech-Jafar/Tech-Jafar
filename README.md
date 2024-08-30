@@ -1,11 +1,13 @@
-![logo](https://github.com/Tech-Jafar/Tech-Jafar/blob/main/banner.png)
+![logo](https://github.com/Tech-Jafar/Tech-Jafar/blob/main/bg.png)
 
 <h1 align="center">Hi 👋, I'm Jafar Iqbal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img aling="right" alt="Coding" width="400" src="https://github.com/Tech-Jafar/Tech-Jafar/blob/main/cod.gif"/>
+<img align ="right" alt="Coding" width="400" src="https://github.com/Tech-Jafar/Tech-Jafar/blob/main/cod.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-jafar&label=Profile%20views&color=0e75b6&style=flat" alt="tech-jafar" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tech-Jafar](https://github.com/Tech-Jafar)
 
@@ -24,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-jafar&show_icons=true&locale=en&layout=compact" alt="tech-jafar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-jafar&show_icons=true&locale=en" alt="tech-jafar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-jafar&show_icons=true&locale=en" alt="tech-jafar"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-jafar&" alt="tech-jafar" /></p>
 
